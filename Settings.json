@@ -14,8 +14,8 @@
   "editor.smoothScrolling": true,
   "editor.formatOnPaste": true,
   "editor.wordWrap": "on",
-  "editor.fontFamily": "Operator Mono Lig",
-  "editor.fontSize": 13,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontSize": 13.7,
   "editor.fontWeight": "500",
   "editor.fontLigatures": true,
   "editor.suggestSelection": "first",
@@ -31,7 +31,7 @@
   ],
   "breadcrumbs.enabled": true,
   "terminal.integrated.showExitAlert": false,
-  "terminal.integrated.fontFamily": "Operator Mono Lig",
+  "terminal.integrated.fontFamily": "Fira Code",
   "terminal.integrated.fontSize": 13,
   "terminal.integrated.fontWeight": "500",
   "terminal.integrated.rendererType": "auto",
@@ -49,38 +49,8 @@
   "[javascript]": {
     "editor.defaultFormatter": "vscode.typescript-language-features"
   },
-  "eslint.autoFixOnSave": true,
   "explorer.confirmDragAndDrop": false,
   "editor.minimap.enabled": false,
-  // "workbench.colorTheme": "Palenight Operator",
   "telemetry.enableTelemetry": false,
   "telemetry.enableCrashReporter": false,
-  "latex-workshop.view.pdf.viewer": "tab",
-  "workbench.colorTheme": "Night Owl",
-  "python.jediEnabled": false,
-  // "editor.tokenColorCustomizations": {
-  //   "textMateRules": [
-  //     {
-  //       "scope": [
-  //         "comment",
-  //         "keyword",
-  //         "support.class.builtin.js",
-  //         "storage.modifier",
-  //         "storage.type.class.js",
-  //         "storage.type.function.js",
-  //         "storage.type.js",
-  //         "keyword.control.import.js",
-  //         "keyword.control.from.js",
-  //         "entity.name.type.js",
-  //         "keyword.control.flow.js",
-  //         "keyword.control.conditional.js",
-  //         "keyword.control.loop.js",
-  //         "keyword.operator.new.js",
-  //       ],
-  //       "settings": {
-  //         "fontStyle": "italic bold",
-  //       }
-  //     },
-  //   ],
-  // }
 }
